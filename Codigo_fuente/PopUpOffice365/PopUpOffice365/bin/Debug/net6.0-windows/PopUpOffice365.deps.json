@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PopUpOffice365/1.0.0": {
+        "runtime": {
+          "PopUpOffice365.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PopUpOffice365/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
